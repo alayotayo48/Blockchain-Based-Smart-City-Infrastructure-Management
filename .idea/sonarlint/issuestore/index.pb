@@ -11,3 +11,9 @@ T
 $tests/maintenance-scheduling.test.ts,a/d/adeaaa7ee161d125c6a79c3d78c40688f3a402a4
 T
 $contracts/performance-analytics.clar,6/4/64c546131d60492f12020022f9d031aecfc1a850
+R
+"contracts/resource-allocation.clar,b/8/b894c2e4e1f74c4841d3bb7e04dab1a5e317892f
+S
+#tests/performance-analytics.test.ts,d/0/d01d322a0fa121e9af97d16441115ba45b56a6f0
+Q
+!tests/resource-allocation.test.ts,8/5/85db2f25ff7429c4a1fa3d43237841ead7e2e0ac
