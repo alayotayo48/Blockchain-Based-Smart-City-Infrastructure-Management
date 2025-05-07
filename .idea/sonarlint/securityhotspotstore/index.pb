@@ -17,3 +17,7 @@ S
 #tests/performance-analytics.test.ts,d/0/d01d322a0fa121e9af97d16441115ba45b56a6f0
 Q
 !tests/resource-allocation.test.ts,8/5/85db2f25ff7429c4a1fa3d43237841ead7e2e0ac
+J
+contracts/sensor-data.clar,3/5/355f28504f2dd3e44569dce7a79c666ee80a8020
+I
+tests/sensor-data.test.ts,1/5/15fba83d51e2a1ee87285d30038377b1925fde8f
