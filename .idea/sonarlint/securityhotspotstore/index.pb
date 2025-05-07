@@ -1,3 +1,23 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+Q
+!contracts/asset-registration.clar,3/5/359efc922f0fe1a8fb8aa99ef2802ecbf8721efc
+U
+%contracts/maintenance-scheduling.clar,f/7/f75564e007197f104115c4551443027923af5a64
+P
+ tests/asset-registration.test.ts,a/0/a094f6bd89fb354c1c00ca2f0d394be778fb1436
+T
+$tests/maintenance-scheduling.test.ts,a/d/adeaaa7ee161d125c6a79c3d78c40688f3a402a4
+T
+$contracts/performance-analytics.clar,6/4/64c546131d60492f12020022f9d031aecfc1a850
+R
+"contracts/resource-allocation.clar,b/8/b894c2e4e1f74c4841d3bb7e04dab1a5e317892f
+S
+#tests/performance-analytics.test.ts,d/0/d01d322a0fa121e9af97d16441115ba45b56a6f0
+Q
+!tests/resource-allocation.test.ts,8/5/85db2f25ff7429c4a1fa3d43237841ead7e2e0ac
+J
+contracts/sensor-data.clar,3/5/355f28504f2dd3e44569dce7a79c666ee80a8020
+I
+tests/sensor-data.test.ts,1/5/15fba83d51e2a1ee87285d30038377b1925fde8f
